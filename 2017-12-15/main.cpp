@@ -15,7 +15,7 @@ int main()
  {
   if (falt[i] > 0 )
       falt[i] = falt[i] * (-1);
-i++;
+  i++;
   }
   
   i=0;
